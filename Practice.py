@@ -1,6 +1,6 @@
 import requests
 
 
-me = input("your name?")
+name = input("your name?")
 print("hello,", name)
 print(r.ok)
